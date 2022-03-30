@@ -1,5 +1,5 @@
 <script>
-  import successkid from 'images/ground.jpg'
+  import slocc from 'images/ground.jpg'
 </script>
 
 <style>
@@ -44,4 +44,7 @@
 
 <h1>SLO Cricket Club!</h1>
 
-
+<figure>
+  <img alt="ground" src={slocc} />
+  <figcaption>Cricket is a gentleman's game</figcaption>
+</figure>
