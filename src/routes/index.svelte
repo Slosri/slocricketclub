@@ -44,7 +44,4 @@
 
 <h1>SLO Cricket Club!</h1>
 
-<figure>
-  <img alt="Success Kid" src={successkid} />
-  <figcaption>Have fun with Good Game!</figcaption>
-</figure>
+
