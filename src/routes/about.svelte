@@ -1,5 +1,5 @@
 <script>
-  import charlie from 'images/charlie.jpg'
+  import charlie from 'images/wickets.jpg'
 </script>
 
 <svelte:head>
@@ -9,7 +9,7 @@
 <h1>Founder</h1>
 <h1>Charlie Rugg</h1>
 <figure>
-  <img alt=" Charlie Rugg " src={charlie} />
+  <img alt=" SLO Cricket Club " src={slocc} />
 
 </figure>
 

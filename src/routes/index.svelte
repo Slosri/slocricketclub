@@ -1,5 +1,5 @@
 <script>
-  import successkid from 'images/Sports.jpg'
+  import successkid from 'images/ground.jpg'
 </script>
 
 <style>
@@ -39,10 +39,10 @@
 </style>
 
 <svelte:head>
-  <title>Sapper project template</title>
+  <title>Slocc</title>
 </svelte:head>
 
-<h1>Good Game!</h1>
+<h1>SLO Cricket Club!</h1>
 
 <figure>
   <img alt="Success Kid" src={successkid} />
